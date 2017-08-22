@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=/home/ksad/ExternalApps/Telegram/Telegram
+Icon=/home/ksad/ExternalApps/Telegram/telegram128.png
+Type=Application
+Terminal=false
+Comment=Telegram
+Name=Telegram
+GenericName=telegram
+StartupNotify=false
+Categories=Network;
