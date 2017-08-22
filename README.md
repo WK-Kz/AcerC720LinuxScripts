@@ -1,5 +1,5 @@
 # Introduction
-I made this for the purpose of having a backup for important linux files on my Acer C720.
+I made this for the purpose of having a backup for important linux files on my Acer C720 running Linux Mint 18.2.
 
 # Applications
 For each of the files here:
