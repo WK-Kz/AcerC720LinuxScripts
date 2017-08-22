@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
-Exec=/home/ksad/ExternalApps/Telegram/Telegram
-Icon=/home/ksad/ExternalApps/Telegram/telegram128.png
+Exec=/home/[Add_user_here]/ExternalApps/Telegram/Telegram
+Icon=/home/[Add_user_here]/ExternalApps/Telegram/telegram128.png
 Type=Application
 Terminal=false
 Comment=Telegram
