@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=/home/[Add_user_here]/ExternalApps/tor-browser_en-US/Tor\ Browser
+Icon=/home/[Add_user_here]/ExternalApps/tor-browser_en-US/Browser/browser/icons/mozicon128.png 
+Type=Application
+Terminal=false
+Comment=Tor Browser
+Name=Tor Browser
+GenericName=Tor
+StartupNotify=false
+Categories=Network;
